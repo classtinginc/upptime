@@ -2,8 +2,14 @@ owner: classtinginc
 repo: upptime
 user-agent: KojBot
 sites:
-  - name: Classting
-    url: https://www.classting.com
+  - name: Classting Web
+    url: https://www.classting.com/nginx_status
+  - name: Classting API
+    url: https://ctapi.classting.com/health_checks
+  - name: Classting AD
+    url: https://adapi.classting.com/health_checks
+  - name: Classting AI
+    url: https://clapi.classting.com/health_checks
   - name: Classroom
     url: https://classroom.classting.net
 # notifications:
