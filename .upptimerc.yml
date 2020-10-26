@@ -12,8 +12,8 @@ sites:
 assignees:
   - junheon
 status-website:
-  cname: upptime.js.org
-  logoUrl: https://raw.githubusercontent.com/koj-co/upptime/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
-  name: Upptime
+  cname: upptime.classting.com
+  logoUrl: https://about.classting.com//images/ct_company_nav_logo.png
+  name: Classting upptime
   introTitle: "**Upptime** for Classting"
   introMessage: Classting을 구성하는 서비스의 Upptime
