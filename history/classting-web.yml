@@ -1,7 +1,7 @@
 - url: https://www.classting.com/nginx_status
 - status: up
 - code: 200
-- responseTime: 805
-- lastUpdated: 2020-10-31T23:04:14.045Z
+- responseTime: 753
+- lastUpdated: 2020-11-01T23:04:17.594Z
 - startTime: 2020-10-26T03:02:57.659Z
 - generator: Upptime <https://github.com/upptime/upptime>
