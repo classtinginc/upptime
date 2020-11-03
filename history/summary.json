@@ -3,40 +3,40 @@
     "name": "Classting Web",
     "url": "https://www.classting.com/nginx_status",
     "slug": "classting-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 729
+    "time": 648
   },
   {
     "name": "Classting API",
     "url": "https://ctapi.classting.com/health_checks",
     "slug": "classting-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 689
+    "time": 612
   },
   {
     "name": "Classting AD",
     "url": "https://adapi.classting.com/health_checks",
     "slug": "classting-ad",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 692
+    "time": 615
   },
   {
     "name": "Classting AI",
     "url": "https://clapi.classting.com/health_checks",
     "slug": "classting-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 670
+    "time": 595
   },
   {
     "name": "Classroom",
     "url": "https://classroom.classting.net",
     "slug": "classroom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 182
+    "time": 164
   }
 ]
