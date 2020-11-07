@@ -5,7 +5,7 @@
     "slug": "classting-web",
     "status": "up",
     "uptime": "100.00",
-    "time": 696
+    "time": 697
   },
   {
     "name": "Classting API",
@@ -21,7 +21,7 @@
     "slug": "classting-ad",
     "status": "up",
     "uptime": "100.00",
-    "time": 655
+    "time": 657
   },
   {
     "name": "Classting AI",
@@ -29,7 +29,7 @@
     "slug": "classting-ai",
     "status": "up",
     "uptime": "100.00",
-    "time": 636
+    "time": 637
   },
   {
     "name": "Classroom",
@@ -37,6 +37,6 @@
     "slug": "classroom",
     "status": "up",
     "uptime": "100.00",
-    "time": 163
+    "time": 164
   }
 ]
