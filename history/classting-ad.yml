@@ -1,7 +1,7 @@
 - url: https://adapi.classting.com/health_checks
 - status: up
 - code: 200
-- responseTime: 672
-- lastUpdated: 2020-11-07T23:04:55.601Z
+- responseTime: 693
+- lastUpdated: 2020-11-08T23:04:55.142Z
 - startTime: 2020-10-26T03:03:01.441Z
 - generator: Upptime <https://github.com/upptime/upptime>
