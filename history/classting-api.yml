@@ -1,7 +1,7 @@
 - url: https://ctapi.classting.com/health_checks
-- status: up
+- status: down
 - code: 200
-- responseTime: 670
-- lastUpdated: 2020-11-18T23:06:23.361Z
+- responseTime: 672
+- lastUpdated: 2020-11-19T06:46:47.905Z
 - startTime: 2020-10-26T03:02:59.471Z
 - generator: Upptime <https://github.com/upptime/upptime>
