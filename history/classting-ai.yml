@@ -1,7 +1,7 @@
 - url: https://clapi.classting.com/health_checks
-- status: down
+- status: up
 - code: 200
-- responseTime: 669
-- lastUpdated: 2020-11-19T06:46:52.866Z
+- responseTime: 692
+- lastUpdated: 2020-11-19T06:53:00.556Z
 - startTime: 2020-10-26T03:03:03.202Z
 - generator: Upptime <https://github.com/upptime/upptime>
