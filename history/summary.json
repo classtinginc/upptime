@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 724,
-    "timeDay": 744,
-    "timeWeek": 709,
-    "timeMonth": 716,
-    "timeYear": 724
+    "time": 719,
+    "timeDay": 478,
+    "timeWeek": 707,
+    "timeMonth": 708,
+    "timeYear": 719
   },
   {
     "name": "Classting API",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 720,
-    "timeDay": 805,
-    "timeWeek": 709,
-    "timeMonth": 732,
-    "timeYear": 720
+    "time": 716,
+    "timeDay": 498,
+    "timeWeek": 707,
+    "timeMonth": 721,
+    "timeYear": 716
   },
   {
     "name": "Classting AD",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 698,
-    "timeDay": 713,
-    "timeWeek": 697,
-    "timeMonth": 699,
-    "timeYear": 698
+    "time": 693,
+    "timeDay": 444,
+    "timeWeek": 694,
+    "timeMonth": 691,
+    "timeYear": 693
   },
   {
     "name": "Classting AI",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 686,
-    "timeDay": 756,
-    "timeWeek": 686,
-    "timeMonth": 692,
-    "timeYear": 686
+    "time": 682,
+    "timeDay": 475,
+    "timeWeek": 681,
+    "timeMonth": 685,
+    "timeYear": 682
   },
   {
     "name": "Classroom",
@@ -73,10 +73,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 179,
-    "timeWeek": 234,
-    "timeMonth": 196,
-    "timeYear": 189
+    "time": 195,
+    "timeDay": 483,
+    "timeWeek": 228,
+    "timeMonth": 207,
+    "timeYear": 195
   }
 ]
