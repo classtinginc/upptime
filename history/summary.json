@@ -2,6 +2,7 @@
   {
     "name": "Classting Web",
     "url": "https://www.classting.com/nginx_status",
+    "icon": "https://favicons.githubusercontent.com/www.classting.com",
     "slug": "classting-web",
     "status": "up",
     "uptime": "100.00%",
@@ -10,14 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 719,
-    "timeDay": 478,
-    "timeWeek": 707,
-    "timeMonth": 708,
-    "timeYear": 719
+    "timeDay": 737,
+    "timeWeek": 702,
+    "timeMonth": 709,
+    "timeYear": 719,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Classting API",
     "url": "https://ctapi.classting.com/health_checks",
+    "icon": "https://favicons.githubusercontent.com/ctapi.classting.com",
     "slug": "classting-api",
     "status": "up",
     "uptime": "100.00%",
@@ -26,14 +29,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 716,
-    "timeDay": 498,
-    "timeWeek": 707,
-    "timeMonth": 721,
-    "timeYear": 716
+    "timeDay": 718,
+    "timeWeek": 697,
+    "timeMonth": 723,
+    "timeYear": 716,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Classting AD",
     "url": "https://adapi.classting.com/health_checks",
+    "icon": "https://favicons.githubusercontent.com/adapi.classting.com",
     "slug": "classting-ad",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +46,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 693,
-    "timeDay": 444,
-    "timeWeek": 694,
-    "timeMonth": 691,
-    "timeYear": 693
+    "time": 692,
+    "timeDay": 662,
+    "timeWeek": 675,
+    "timeMonth": 690,
+    "timeYear": 692,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Classting AI",
     "url": "https://clapi.classting.com/health_checks",
+    "icon": "https://favicons.githubusercontent.com/clapi.classting.com",
     "slug": "classting-ai",
     "status": "up",
     "uptime": "100.00%",
@@ -57,15 +64,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 682,
-    "timeDay": 475,
-    "timeWeek": 681,
-    "timeMonth": 685,
-    "timeYear": 682
+    "time": 683,
+    "timeDay": 739,
+    "timeWeek": 682,
+    "timeMonth": 687,
+    "timeYear": 683,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Classroom",
     "url": "https://classroom.classting.net",
+    "icon": "https://favicons.githubusercontent.com/classroom.classting.net",
     "slug": "classroom",
     "status": "up",
     "uptime": "100.00%",
@@ -73,10 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 483,
-    "timeWeek": 228,
-    "timeMonth": 207,
-    "timeYear": 195
+    "time": 194,
+    "timeDay": 149,
+    "timeWeek": 219,
+    "timeMonth": 206,
+    "timeYear": 194,
+    "dailyMinutesDown": {}
   }
 ]
