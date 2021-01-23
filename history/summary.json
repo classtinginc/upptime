@@ -40,18 +40,20 @@
     "url": "https://adapi.classting.com/health_checks",
     "icon": "https://favicons.githubusercontent.com/adapi.classting.com",
     "slug": "classting-ad",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 697,
-    "timeDay": 679,
-    "timeWeek": 699,
+    "timeDay": 684,
+    "timeWeek": 697,
     "timeMonth": 697,
     "timeYear": 697,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-23": 0
+    }
   },
   {
     "name": "Classting AI",
