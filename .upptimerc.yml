@@ -11,7 +11,7 @@ sites:
   - name: Classting AI
     url: https://clapi.classting.com/health_checks
   - name: Classroom
-    url: https://classroom.classting.net
+    url: https://newclass.classting.com
 # notifications:
 #   - type: slack
 #     channel: C016QTU9S9Y
