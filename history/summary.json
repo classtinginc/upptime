@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 692,
-    "timeDay": 745,
-    "timeWeek": 782,
-    "timeMonth": 783,
+    "timeDay": 549,
+    "timeWeek": 714,
+    "timeMonth": 770,
     "timeYear": 683,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 691,
-    "timeDay": 717,
-    "timeWeek": 673,
-    "timeMonth": 672,
+    "timeDay": 507,
+    "timeWeek": 637,
+    "timeMonth": 666,
     "timeYear": 686,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 678,
-    "timeDay": 694,
-    "timeWeek": 648,
-    "timeMonth": 647,
-    "timeYear": 672,
+    "time": 677,
+    "timeDay": 457,
+    "timeWeek": 611,
+    "timeMonth": 641,
+    "timeYear": 671,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 669,
-    "timeDay": 713,
-    "timeWeek": 652,
-    "timeMonth": 650,
-    "timeYear": 662,
+    "time": 668,
+    "timeDay": 492,
+    "timeWeek": 617,
+    "timeMonth": 645,
+    "timeYear": 661,
     "dailyMinutesDown": {}
   },
   {
@@ -77,15 +77,15 @@
     "icon": "https://favicons.githubusercontent.com/newclass.classting.com",
     "slug": "classroom",
     "status": "up",
-    "uptime": "91.37%",
+    "uptime": "91.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.51%",
+    "uptimeYear": "91.79%",
     "time": 276,
-    "timeDay": 102,
-    "timeWeek": 91,
-    "timeMonth": 149,
+    "timeDay": 91,
+    "timeWeek": 95,
+    "timeMonth": 147,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2021-03-22": 1407,
@@ -116,8 +116,7 @@
       "2021-02-25": 1440,
       "2021-02-24": 1440,
       "2021-02-23": 1440,
-      "2021-02-22": 1440,
-      "2021-02-21": 1440
+      "2021-02-22": 1440
     }
   }
 ]
