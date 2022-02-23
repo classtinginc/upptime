@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 692,
-    "timeDay": 494,
-    "timeWeek": 665,
-    "timeMonth": 766,
-    "timeYear": 683,
+    "timeDay": 659,
+    "timeWeek": 635,
+    "timeMonth": 744,
+    "timeYear": 682,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 691,
-    "timeDay": 485,
-    "timeWeek": 606,
-    "timeMonth": 659,
+    "timeDay": 788,
+    "timeWeek": 620,
+    "timeMonth": 661,
     "timeYear": 685,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 677,
-    "timeDay": 461,
-    "timeWeek": 583,
-    "timeMonth": 634,
+    "timeDay": 669,
+    "timeWeek": 574,
+    "timeMonth": 631,
     "timeYear": 671,
     "dailyMinutesDown": {}
   },
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 668,
-    "timeDay": 495,
-    "timeWeek": 590,
-    "timeMonth": 638,
+    "timeDay": 711,
+    "timeWeek": 585,
+    "timeMonth": 639,
     "timeYear": 661,
     "dailyMinutesDown": {}
   },
@@ -77,16 +77,16 @@
     "icon": "https://favicons.githubusercontent.com/newclass.classting.com",
     "slug": "classroom",
     "status": "up",
-    "uptime": "91.41%",
+    "uptime": "91.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.06%",
+    "uptimeYear": "92.34%",
     "time": 275,
-    "timeDay": 88,
-    "timeWeek": 95,
-    "timeMonth": 147,
-    "timeYear": 303,
+    "timeDay": 121,
+    "timeWeek": 98,
+    "timeMonth": 148,
+    "timeYear": 302,
     "dailyMinutesDown": {
       "2021-03-22": 1407,
       "2021-03-21": 1440,
@@ -114,8 +114,7 @@
       "2021-02-27": 1440,
       "2021-02-26": 1440,
       "2021-02-25": 1440,
-      "2021-02-24": 1440,
-      "2021-02-23": 1440
+      "2021-02-24": 1440
     }
   }
 ]
