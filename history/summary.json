@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 693,
-    "timeDay": 741,
-    "timeWeek": 807,
-    "timeMonth": 745,
+    "timeDay": 739,
+    "timeWeek": 831,
+    "timeMonth": 749,
     "timeYear": 685,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 692,
-    "timeDay": 771,
-    "timeWeek": 766,
-    "timeMonth": 684,
+    "timeDay": 731,
+    "timeWeek": 768,
+    "timeMonth": 692,
     "timeYear": 687,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 676,
-    "timeDay": 693,
-    "timeWeek": 643,
-    "timeMonth": 630,
+    "timeDay": 676,
+    "timeWeek": 646,
+    "timeMonth": 637,
     "timeYear": 670,
     "dailyMinutesDown": {}
   },
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 668,
-    "timeDay": 708,
-    "timeWeek": 668,
-    "timeMonth": 646,
+    "timeDay": 704,
+    "timeWeek": 665,
+    "timeMonth": 654,
     "timeYear": 661,
     "dailyMinutesDown": {}
   },
@@ -77,15 +77,15 @@
     "icon": "https://favicons.githubusercontent.com/newclass.classting.com",
     "slug": "classroom",
     "status": "up",
-    "uptime": "91.56%",
+    "uptime": "91.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.53%",
+    "uptimeYear": "94.80%",
     "time": 273,
-    "timeDay": 153,
-    "timeWeek": 125,
-    "timeMonth": 158,
+    "timeDay": 100,
+    "timeWeek": 129,
+    "timeMonth": 159,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2021-03-22": 1407,
@@ -105,8 +105,7 @@
       "2021-03-08": 1440,
       "2021-03-07": 1440,
       "2021-03-06": 1440,
-      "2021-03-05": 1440,
-      "2021-03-04": 1440
+      "2021-03-05": 1440
     }
   }
 ]
