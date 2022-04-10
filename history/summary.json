@@ -40,7 +40,7 @@
     "url": "https://adapi.classting.com/health_checks",
     "icon": "https://favicons.githubusercontent.com/adapi.classting.com",
     "slug": "classting-ad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
