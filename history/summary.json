@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 713,
-    "timeDay": 605,
-    "timeWeek": 722,
-    "timeMonth": 772,
-    "timeYear": 726,
+    "timeDay": 613,
+    "timeWeek": 703,
+    "timeMonth": 739,
+    "timeYear": 725,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 684,
-    "timeDay": 752,
-    "timeWeek": 677,
-    "timeMonth": 636,
-    "timeYear": 679,
+    "timeDay": 569,
+    "timeWeek": 674,
+    "timeMonth": 632,
+    "timeYear": 678,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 742,
-    "timeWeek": 647,
-    "timeMonth": 607,
-    "timeYear": 718,
+    "time": 702,
+    "timeDay": 509,
+    "timeWeek": 636,
+    "timeMonth": 602,
+    "timeYear": 717,
     "dailyMinutesDown": {}
   },
   {
@@ -65,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 671,
-    "timeDay": 713,
-    "timeWeek": 671,
-    "timeMonth": 620,
-    "timeYear": 672,
+    "timeDay": 495,
+    "timeWeek": 661,
+    "timeMonth": 614,
+    "timeYear": 671,
     "dailyMinutesDown": {}
   },
   {
@@ -77,16 +77,16 @@
     "icon": "https://favicons.githubusercontent.com/newclass.classting.com",
     "slug": "classroom",
     "status": "up",
-    "uptime": "93.20%",
+    "uptime": "93.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 111,
-    "timeWeek": 165,
+    "time": 257,
+    "timeDay": 85,
+    "timeWeek": 163,
     "timeMonth": 148,
-    "timeYear": 245,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   }
 ]
